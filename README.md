@@ -1,1 +1,1 @@
-# traffic-light-using-html-css
+# Traffic Light Using Html and Css
